@@ -1,7 +1,7 @@
 
 # Medical Image Semantic Segmentation
 
-Official pytorch implementation of the paper **Histogram of Oriented Gradients Meet Deep Learning: A Novel Multi-task Deep Network for Medical Image Semantic Segmentation** \
+Official pytorch implementation of the paper **[Histogram of Oriented Gradients Meet Deep Learning: A Novel Multi-task Deep Network for Medical Image Semantic Segmentation](https://www.sciencedirect.com/science/article/pii/S1361841523000087?via%3Dihub)** \
 This work presents a novel deep multi-task learning method for medical image segmentation leveraging Histogram of Oriented Gradients (HOGs) to generate pseudo-labels.
 
 <p align="center"><img width="100%" src="images/pipeline.jpg" /></p>
